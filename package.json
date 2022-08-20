@@ -1,0 +1,23 @@
+{
+  "name": "ngcook-dev.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngcook-dev/ngcook-dev.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngcook-dev/ngcook-dev.github.io/issues"
+  },
+  "homepage": "https://github.com/ngcook-dev/ngcook-dev.github.io#readme",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
